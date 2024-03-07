@@ -54,7 +54,7 @@ main {
   font-weight: bold;
 }
 
-.weatehr-app-unit {
+.weather-app-unit {
   margin-top: 16px;
   font-size: 28px;
 }
@@ -67,7 +67,7 @@ header {
   background-color: #eaf8ff;
   border: none;
   border-radius: 6px;
-  width: 70%;
+  width: 40%;
   font-size: 16px;
   padding: 15px 20px;
 }
