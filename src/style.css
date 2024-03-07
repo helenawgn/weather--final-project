@@ -2,6 +2,10 @@ body {
   background-color: #eaf8ff;
   font-family: "Work Sans", sans-serif;
 }
+a {
+  color: #3397da;
+}
+
 .weather-app {
   background: white;
   max-width: 800px;
@@ -20,7 +24,7 @@ main {
 }
 .weather-app-city {
   margin: 0;
-  font-size: 38px;
+  font-size: 50px;
   line-height: 48px;
 }
 
@@ -32,7 +36,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: #f65282;
+  color: #133b8b;
 }
 
 .weather-app-temperature-container {
@@ -63,7 +67,7 @@ header {
   background-color: #eaf8ff;
   border: none;
   border-radius: 6px;
-  width: 50%;
+  width: 70%;
   font-size: 16px;
   padding: 15px 20px;
 }
