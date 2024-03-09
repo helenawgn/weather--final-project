@@ -1,5 +1,5 @@
 body {
-  background-color: #eaf8ff;
+  background-color: #eef4f7;
   font-family: "Work Sans", sans-serif;
 }
 a {
@@ -13,6 +13,7 @@ a {
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
   padding: 30px;
+  opacity: 90%;
 }
 main {
   padding: 30px 0;
